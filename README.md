@@ -18,7 +18,7 @@ Indian-Cost-Optimization/
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Core ML**: LightGBM (Gradient Boosting Framework)
 - **Hyperparameter Tuning**: Bayesian Optimization
@@ -38,7 +38,7 @@ pip install pandas numpy lightgbm bayesian-optimization shap matplotlib seaborn 
 python indian_cost_optimization_data_mining.py
 ```
 
-### 📓 Jupyter Notebook Version
+### Jupyter Notebook Version
 
 1. Upload `Indian_Cost_Optimization.ipynb` to Google Colab or Jupyter.
 2. Run all cells sequentially.
