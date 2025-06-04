@@ -6,7 +6,7 @@ This project provides **personalized savings recommendations** for Indian househ
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 Indian-Cost-Optimization/
@@ -29,9 +29,9 @@ Indian-Cost-Optimization/
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
-### 🐍 Python Script Version
+### Python Script Version
 
 ```bash
 pip install pandas numpy lightgbm bayesian-optimization shap matplotlib seaborn scikit-learn
@@ -50,7 +50,7 @@ python indian_cost_optimization_data_mining.py
 
 ---
 
-## 💡 Sample Input
+## Sample Input
 
 ```python
 sample_input = {
@@ -77,17 +77,20 @@ sample_input = {
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - 🇮🇳 **PPP-adjusted expense modeling** for Indian context
-- 💰 **Automatic rupee conversion** with category-specific adjustments
-- 🔒 **Savings target validation** (capped at income level)
-- 📊 **Visual diagnostics** with SHAP feature importance
-- ✅ **Comprehensive model evaluation** metrics
-- 🛡 **Safety checks** for realistic savings recommendations
+- **Automatic rupee conversion** with category-specific adjustments
+- **Savings target validation** (capped at income level)
+- **Visual diagnostics** with SHAP feature importance
+- **Comprehensive model evaluation** metrics
+- **Safety checks** for realistic savings recommendations
 
 > **Note:** Both script and notebook versions expect `data.csv` in the same directory when running.
 
 ---
 
-Made with ❤️ for smart Indian financial planning!
+### **Author**  
+**Izaan Ibrahim Sayed**  
+Email: izaanahmad37@gmail.com  
+GitHub: [github.com/izaanahmad37](https://github.com/izaanibrahim37) 
